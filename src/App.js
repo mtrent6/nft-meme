@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import dog from './dog.png'
 
@@ -9,7 +8,7 @@ function App() {
         <div style={{paddingBottom: 40}}>
         World's most fungible token 😴🙃😤
         </div>
-        <img src={dog}/>
+        <img alt="this is an image" src={dog}/>
       </header>
     </div>
   );
