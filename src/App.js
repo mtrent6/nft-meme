@@ -8,7 +8,7 @@ function App() {
         <div style={{paddingBottom: 40}}>
         World's most fungible token 😴🙃😤
         </div>
-        <img alt="this is an image" src={dog}/>
+        <img alt="this is a dog" src={dog}/>
       </header>
     </div>
   );
